@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="1500" height="1500" viewBox="0 0 500 500">
+  <rect width="3500" height="3500" fill="#2563eb"></rect>
+  
+  <circle cx="250" cy="250" r="220" fill="none" stroke="#f59e0b" stroke-width="12"></circle>
+  
+  <text x="50%" y="52%" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" fill="#ffffff" font-weight="bold" dy=".3em">
+   Toshan
+  </text>
+</svg>
